@@ -196,12 +196,12 @@ const printToDom = (divId, textToPrint) => {
 export default { printToDom };
 ``` 
 
-**13. init firebase **
+**13. init firebase**
 ```
 firebase init
 ```
 
-**13. test with:**
+**14. test with:**
 ```
 npm start
 ```
