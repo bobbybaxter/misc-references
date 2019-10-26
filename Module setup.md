@@ -1,4 +1,4 @@
-Module Setup
+# Module Setup
 **1. initialize modules in terminal with:**
 ```
 npm init -y

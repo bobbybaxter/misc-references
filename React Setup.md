@@ -1,4 +1,4 @@
-REACT SETUP:
+# REACT SETUP:
 1) `npx create-react-app react-hoarder`
     - **create-react-app** is the script
     - **intro-react** is my new app name
