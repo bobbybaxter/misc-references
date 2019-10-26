@@ -7,9 +7,11 @@ npm init -y
   - Can add a description
   - Change “main” from “index.js” to “src/javascripts/main.js”
   - Change scripts to:
+	```
 	"start": "webpack-dev-server --mode development --open",
 	"build": "webpack --mode production --module-bind js=babel-loader",
-    	"deploy": "npm run build && firebase deploy"
+	"deploy": "npm run build && firebase deploy"
+	```
   - Put name in author
   - Change licence to MIT
 
