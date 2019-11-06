@@ -1,5 +1,5 @@
 # REACT SETUP:
-1) `npx create-react-app react-hoarder`
+1) `npx create-react-app intro-react`
     - **create-react-app** is the script
     - **intro-react** is my new app name
 <br>
@@ -9,7 +9,7 @@
 <br>
 
 3) `cd` into the new directory, and in CLI:
-    - `$ git remote add origin git@github.com:bobbybaxter/react-hoarder.git`
+    - `$ git remote add origin git@github.com:bobbybaxter/intro-react.git`
     - `$ git push -u origin master`
 <br>
 
