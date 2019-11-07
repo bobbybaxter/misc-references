@@ -32,7 +32,7 @@
 8) in `index.js`:
     - change `import App from './App'` to `import App from './App/App'`
     - change `import 'index.css'` to `import './styles/index.scss'`
-    - before `import './styles/index.scss;' add `import 'bootstrap/dist/css/bootstrap.min.css';`
+    - before `import './styles/index.scss;'` add `import 'bootstrap/dist/css/bootstrap.min.css';`
 <br>
 
 9) in `App.js` 
