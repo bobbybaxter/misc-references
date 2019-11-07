@@ -41,7 +41,7 @@
 <br>
 
 10) install dependencies:
-    - `npm install node-sass eslint-config-airbnb-base --sav-dev`
+    - `npm install node-sass eslint-config-airbnb-base --save-dev`
     - `npm install axios bootstrap prop-types firebase react-router-dom reactstrap --save`
 <br>
 
